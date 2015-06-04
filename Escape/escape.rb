@@ -20,14 +20,14 @@ class Game
   def play()
     puts "\n" * 60
     puts "\n============================  THE ESCAPE  ============================"
-    puts "\nWelcome to The Escape!  The goal of this game is to find a way to"
-    puts "escape the strange prison you're in.  You do this by entering commands"
-    puts "in response to the text prompt.  KEYWORDS will be capitalized to"
-    puts "help you figure out what to do next.  The game doesn't currently"
-    puts "recognize capital letters, so make sure you type everything in lower-"
-    puts "case.  Once you leave a room, you can always type 'go back' to return"
-    puts "to the previous room.  If you get stuck, try typing 'look' to search"
-    puts "your surroundings.  Good luck!"
+    puts "\nWelcome to The Escape!  You are trapped in a strange prison, and the"
+    puts "goal is to escape! You can interact with your environment in various"
+    puts "ways by typing commands into the prompt and pressing the 'RETURN' key."
+    puts "KEYWORDS are capitalized to give you an idea of what to do next. The"
+    puts "game doesn't currently recognize capital letters, so make sure you type"
+    puts "everything in lower-case. Keep in mind that once you leave a room, you"
+    puts "can always type 'go back' to travel to the previous room. If you ever"
+    puts "get stuck, try typing 'look' to search your surroundings. Good luck!"
     puts "\n======================================================================"
     puts "\n" * 2
 
