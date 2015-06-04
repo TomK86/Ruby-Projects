@@ -5,7 +5,7 @@
 # A text-based dungeon crawler game
 # Developed by Tom Kelly, 2015
 #
-# This file contains the main game engine
+# This master file contains the Game and Map classes
 # Requires room.rb
 #
 
