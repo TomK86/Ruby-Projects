@@ -8,12 +8,13 @@ Contact me at TomK0874@gmail.com
 
 ## How to Play
 
+This game requires Ruby, a free-to-download programming language API found [here](https://www.ruby-lang.org/en/downloads/).
+
 To run the game, simply download the 'escape.rb' and 'room.rb' files to any directory,
 then navigate to that directory in your terminal and enter the following command:
 ```
 ruby escape.rb
 ```
-This game requires Ruby, a free-to-download programming language API found [here](https://www.ruby-lang.org/en/downloads/).
 
 You are trapped in a strange prison, and the goal is to escape!
 You can interact with your environment in various ways, by typing commands into the
