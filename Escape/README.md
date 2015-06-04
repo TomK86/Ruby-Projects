@@ -3,6 +3,7 @@
 A simple text-based dungeon crawler game written in Ruby
 
 Developed by Tom Kelly, 2015
+
 Contact me at TomK0874@gmail.com
 
 ## How to Play
