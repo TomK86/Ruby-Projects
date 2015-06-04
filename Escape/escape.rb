@@ -23,7 +23,11 @@ class Game
     puts "\nWelcome to The Escape!  The goal of this game is to find a way to"
     puts "escape the strange prison you're in.  You do this by entering commands"
     puts "in response to the text prompt.  KEYWORDS will be capitalized to"
-    puts "help you figure out what to do next.  Good luck!"
+    puts "help you figure out what to do next.  The game doesn't currently"
+    puts "recognize capital letters, so make sure you type everything in lower-"
+    puts "case.  Once you leave a room, you can always type 'go back' to return"
+    puts "to the previous room.  If you get stuck, try typing 'look' to search"
+    puts "your surroundings.  Good luck!"
     puts "\n======================================================================"
     puts "\n" * 2
 
