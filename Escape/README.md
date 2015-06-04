@@ -18,7 +18,7 @@ ruby escape.rb
 
 You are trapped in a strange prison, and the goal is to escape!
 You can interact with your environment in various ways, by typing commands into the
-prompt and pressing the 'RETURN' key.  KEYWORDS are highlighted to give you an idea
+prompt and pressing the 'RETURN' key.  KEYWORDS are capitalized to give you an idea
 of what to do next.  The game doesn't currently recognize capital letters, so make
 sure you type everything in lower-case.  Keep in mind that once you leave a room,
 you can always type 'go back' to travel to the previous room.  If you ever get
