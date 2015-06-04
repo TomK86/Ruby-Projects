@@ -5,7 +5,7 @@
 # A text-based dungeon crawler game
 # Developed by Tom Kelly, 2015
 #
-# This file contains the Room class/subclasses and the 'key' global variables
+# This dependency file contains the Room class/subclasses and the 'key' global variables
 # Required by escape.rb
 #
 
